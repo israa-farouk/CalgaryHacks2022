@@ -1,0 +1,9 @@
+
+.aboutButtons a{
+  background-color: #264653;
+}
+
+.aboutButtons a:hover{
+  background-color: #E9C46A;
+  color: #e76f51;
+}
